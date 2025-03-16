@@ -1,10 +1,10 @@
 # sls - A Matlab Package for Sea Level Science
 
-[![View Sea Level Science (sls) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/130584-sea-level-science-sls)
+[![View Sea Level Science (sls) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/180404-sls)
 
 This package was written during my PhD - functions were subject to testing only for my needs and therefore treat with caution. Most have also not been used in a decent amount of time. 
 
-See [sls_example_usage](https://github.com/LJ-Jenkins/sls/blob/main/sls%20example%20usage.ipynb) for a brief introduction to some of the functions
+See [sls_example_usage](https://github.com/LJ-Jenkins/sls/blob/main/example_usage.pdf) for a brief introduction to some of the functions
 
 Syntax is sls.function() for base functions or sls.group.function() for functions that are grouped (see below)
 e.g., sls.calc_tide(), sls.bodc.load()
